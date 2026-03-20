@@ -1,3 +1,2 @@
 #!/bin/bash
-
-sudo nmap -sN -p 20-25 "$1"
+sudo nmap -sN -p [20-25] $1
